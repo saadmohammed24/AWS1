@@ -1,0 +1,2 @@
+index.js: command not found
+Server is running at 8080
